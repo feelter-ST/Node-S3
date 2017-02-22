@@ -1,0 +1,21 @@
+{
+  "name": "node-s3",
+  "version": "0.0.2",
+  "repository": "private",
+  "license": "MIT",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "~2.10.0",
+    "compression": "~1.6.2",
+    "epipebomb": "~0.1.1",
+    "express": "~3.2.4",
+    "logrotator": "~1.1.0",
+    "request": "~2.79.0"
+  },
+  "engines": {
+    "node": ">=0.6.14"
+  },
+  "devDependencies": {
+    "tsd": "^0.5.7"
+  }
+}
